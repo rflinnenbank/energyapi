@@ -61,6 +61,7 @@ This project is intentionally vulnerable and should only be used in controlled e
 
 ## Disclaimer
 
+
 By using this project, you acknowledge that it is intended for educational purposes only. Any vulnerabilities, secrets, or passwords exposed here are safe to be leaked and should **not** be used in real-world applications.
 
 ---
